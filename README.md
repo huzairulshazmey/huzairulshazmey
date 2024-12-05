@@ -89,7 +89,7 @@
         </details>
     </div>
 
-</div>
+
 
 <hr />
 </br>
