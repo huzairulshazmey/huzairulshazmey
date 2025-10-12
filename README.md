@@ -22,20 +22,14 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on my Personal Resume ✍🏻</li>
-            <li> 💬 Ask me about React <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
-                    width="16" />, Javascript <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /></li>
+            <li> 👨🏻‍💻 I'm currently working on my RAJIN APP ✍🏻</li>
             <li> 🎓 I'm currently learning React Native <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:huzairulshazmey00@gmail.com" target="_blank">huzairulshazmey00@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://huzairulshazmey.vercel.app/" target="_blank">My Portfolio</a></li>
-            <li>📄 Here's my Resume</a></li>
+                <a href="mailto:huzairulshazmey00@gmail.com" target="_blank"></a></li>
+            <li>👀 Take a look at My Website</li>
         </ul>
     </div>
     <div>
