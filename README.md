@@ -1,95 +1,69 @@
+
 <div align="center">
-    <h1>Hai, I am <a href="https://huzairulshazmey.vercel.app/" target="_blank">Huzairul Shazmey</a> <img
-            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-    <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
-    <br/><br/>
-    <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Software Engineer</b> 🚀 from <b>Malaysia</b> 🇲🇾.<br />
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
-    <div>
-        <a href="https://www.linkedin.com/in/huzairulshazmey" target="_blank"><img alt="LinkedIn"
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:huzairulshazmey00@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        
-    
+
+# Huzairul Shazmey
+
+**Software developer** · Malaysia
+
+<sub>Full-stack web & mobile </sub>
+
+<br />
+
+<p>
+<a href="https://huzairul.rajin.my/"><img src="https://img.shields.io/badge/Portfolio-18181b?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Portfolio" /></a>
+<a href="https://github.com/huzairulshazmey"><img src="https://img.shields.io/badge/GitHub-27272a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/huzairulshazmey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+<a href="mailto:huzairulshazmey00@gmail.com"><img src="https://img.shields.io/badge/Email-3f3f46?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+</p>
+
 </div>
 
-<div>
-    <div>
-        <h2><img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm up to</h2>
-        <ul>
-            <li> 👨🏻‍💻 I'm currently working on my RAJIN APP ✍🏻</li>
-            <li> 🎓 I'm currently learning React Native <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
-                    width="16" /></li>
-            <li>📫 How to reach me: <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:huzairulshazmey00@gmail.com" target="_blank"></a></li>
-            <li>👀 Take a look at My Website</li>
-        </ul>
-    </div>
-    <div>
-        <h2>🧰 Languages and Tools</h2>
-        <p align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
-                alt="Javascript" />&nbsp;&nbsp;&nbsp
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-                alt="React.js" width="55" />
-            <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
-                width="35" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-                alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
-                alt="Java" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
-                alt="Dart" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="48" />&nbsp;&nbsp;&nbsp
-        </p>
-    </div>
-    <br />
-    <div>
-        <h2>⏱ My Stats
-        </h2>
-    </div>
-    <br />
-    <div>
-        <details>
-            <summary>
-                :octocat: Github Stats
-            </summary>
-            <br />
-            <p align="center">
-                <img height="160" alt="HuzairulShazmey  Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=huzairulshazmey&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Aromal's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzairulshazmey&hide=assembly&layout=compact&theme=dark" />
-            </p>
-        </details>
-    </div>
+<br />
 
+## Software developer · Malaysia · Full-stack **web** & **mobile** — right now I am **building apps** and shipping side work in the open. 👨‍💻
 
+<div align="justify">
 
-<hr />
-</br>
-<div align="center">
-   <br />
-    <a href="https://buymeacoffee.com/huzairulshazmey" target="_blank"><img
-            src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
+A skilled **full-stack** developer from **Malaysia** who spends most days inside **end-to-end** product work—**APIs**, **web clients**, and **mobile** surfaces—rather than one narrow slice of the stack. I like repositories that survive contact with reality: readable code, sensible boundaries, and documentation that still makes sense three months later. **Right now I am building apps**—shipping features, tightening integrations, and picking up whatever the next screen or endpoint needs.
+
+**Stacks I have worked with:** JavaScript, TypeScript, React, HTML, CSS, Sass, Node.js, Python, Java, MongoDB, Dart, Flutter, REST APIs, Git, VS Code, and the usual day-to-day work around authentication flows, data modeling, deployment basics, and hooking up third-party services when a product needs maps, payments, analytics, or other integrations.
+
+**Things I am currently learning:** **React Native** in more depth, stronger **mobile UX** instincts, and **performance** habits that stay honest on slower devices and less-than-perfect networks—because the UI is where small mistakes become very loud.
+
+**What I am working toward:** shipping apps I am proud of, keeping this profile useful with **open-source** that saves someone else a week of guesswork, and writing just enough context that my future self does not have to reverse-engineer my own decisions.
+
 </div>
 
+### ✨ Quick facts
+
+- 👨‍💻 **Right now I am building apps**; smaller repos here are experiments, utilities, and OSS drops worth sharing in public.
+- 💬 Ask me about **JavaScript/TypeScript**, **React**, **Node.js**, **MongoDB**, **Flutter/Dart**, **API design**, or **mobile** architecture—happy to help, especially if you have already tried the obvious search and still feel stuck.
+- 🎿 Outside code: time with friends, reading, and slowly collecting context on history and how systems actually evolve in the real world.
+- 🧰 Tools I use a lot: **VS Code**, **Git**, **GitHub**, and the usual collaboration stack (**Slack**, **Notion/Trello-style** planning, **Zoom** when a call is faster than ten messages).
+- 📫 How to reach me: [Email](mailto:huzairulshazmey00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/huzairulshazmey) · [huzairul.rajin.my](https://huzairul.rajin.my/)
+
+<br />
+
+---
+
+<br />
+
+### Toolbox
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,nodejs,py,java,mongodb,dart,flutter,git,vscode&perline=9&theme=dark" alt="Languages and tools" />
+</p>
+
+<p align="center">
+<sub>JavaScript · TypeScript · React · Node.js · Python · Java · MongoDB · Dart · Flutter · Sass · Git · VS Code</sub>
+</p>
+
+<br />
+
+---
+
+<p align="center">
+<sub>
+<a href="https://buymeacoffee.com/huzairulshazmey">Support this profile</a>
+</sub>
+</p>
