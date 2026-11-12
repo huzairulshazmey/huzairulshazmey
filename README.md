@@ -15,11 +15,11 @@ I build tools that make developers and creators faster: browser apps, extensions
 
 ## 🚀 Featured projects
 
-### [Showglass](https://github.com/huzairulshazmey/ShowGlass) · [Live app ↗](https://show-glass.vercel.app)
+### [Showglass](https://github.com/huzairulshazmey/showglass)
 
-App Store screenshot studio that runs entirely in your browser. Device mockups (2D & 3D), gradients, 1500+ fonts, and AI-assisted translations, with no sign-up and no server.
+App Store & Google Play screenshot studio that runs entirely in your browser. Multi-slide projects, device frames, backgrounds picked from your app's own colours, headlines that auto-fit every language, and a preview of how your slides look in store search. Export everything as one ZIP.
 
-<a href="https://github.com/huzairulshazmey/ShowGlass"><img src="https://raw.githubusercontent.com/huzairulshazmey/ShowGlass/main/img/screenshot-generator.png" alt="Showglass screenshot" width="720" /></a>
+<a href="https://github.com/huzairulshazmey/showglass"><img src="assets/showglass.webp" alt="Three app store screenshots made with Showglass" width="720" /></a>
 
 ### [Element Picker](https://github.com/huzairulshazmey/element-picker-extension)
 
